@@ -29,7 +29,7 @@ python jobsdb_scraper.py
 3- The script will prompt you to enter a search keyword for the job listings. Enter the keyword and press Enter.  
 4- The script will start scraping the job listings from hk.jobsdb.com based on the provided keyword.  
 5- Once the scraping process is complete, the data will be saved to a CSV file named jobs.csv in the project directory.  
-6- You can open the job_listings.csv file with any spreadsheet software like Microsoft Excel or Google Sheets to view the scraped data.  
+6- You can open the jobs.csv file with any spreadsheet software like Microsoft Excel or Google Sheets to view the scraped data.  
 
 ## Notes 
 * The script may take some time to scrape all the job listings, depending on the number of results and the website's response time.
