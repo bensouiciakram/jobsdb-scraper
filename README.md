@@ -31,16 +31,6 @@ python jobsdb_scraper.py
 5- Once the scraping process is complete, the data will be saved to a CSV file named job_listings.csv in the project directory.
 6- You can open the job_listings.csv file with any spreadsheet software like Microsoft Excel or Google Sheets to view the scraped data.
 
-## Example 
-Here's an example of how to use the script:
-```bash
-python jobsdb_scraper.py
-Enter the search keyword: python developer
-Scraping job listings for keyword 'python developer'...
-Found 50 job listings.
-Data saved to job_listings.csv.
-```
-
 ## Notes 
 * The script may take some time to scrape all the job listings, depending on the number of results and the website's response time.
 * Please be considerate while scraping data from websites and avoid making too many requests in a short period to prevent overloading the server.
