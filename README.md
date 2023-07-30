@@ -33,7 +33,6 @@ python jobsdb_scraper.py
 
 ## Notes 
 * The script may take some time to scrape all the job listings, depending on the number of results and the website's response time.
-* Please be considerate while scraping data from websites and avoid making too many requests in a short period to prevent overloading the server.
 * This script is provided for educational purposes and personal use. Be sure to review the terms of service of hk.jobsdb.com or any website you intend to scrape to ensure compliance with their policies
 
 ## License 
